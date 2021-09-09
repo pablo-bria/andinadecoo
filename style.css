@@ -9,7 +9,7 @@
 .logo:hover{
         margin: 10px 10px 10px 10px;
         padding: 50px 100px 50px 200px;
-        transform: scale(2,1);
+       
 
 }
 body{
@@ -81,6 +81,7 @@ footer{
 .productos-h1{
         color: white;
         text-align: center;
+        grid-template-columns: auto;
 }
 .productos-h2{
         color: white;
